@@ -1,10 +1,10 @@
 
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://gnaragones.github.io/a4_cse445/Hotels.xsd">
-	<Hotel Rating="4.3" NearstAirport="PHX">
+	<Hotel Rating="4.3">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
-		<Address>
+		<Address  NearstAirport="PHX">
 			<Number>11</Number>
 			<Street>E 7th St</Street>
 			<City>Tempe</City>
@@ -12,10 +12,10 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="4.2" NearstAirport="PHX">
+	<Hotel Rating="4.2">
 		<Name>Hyatt Place Tempe/Phoenix/University</Name>
 		<Phone>480-207-1578</Phone>
-		<Address>
+		<Address NearstAirport="PHX">
 			<Number>601</Number>
 			<Street>E 6th St</Street>
 			<City>Tempe</City>
@@ -23,10 +23,10 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="4.7" NearstAirport="SNA">
+	<Hotel Rating="4.7">
 		<Name>Grand Californian</Name>
 		<Phone>714-635-2300</Phone>
-		<Address>
+		<Address NearstAirport="SNA">
 			<Number>1600</Number>
 			<Street>Disneyland Dr</Street>
 			<City>Anaheim</City>
@@ -34,10 +34,10 @@
 			<Zip>92802</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="4.4" NearstAirport="SNA">
+	<Hotel Rating="4.4">
 		<Name>Pixar Place Hotel</Name>
 		<Phone>714-956-6425</Phone>
-		<Address>
+		<Address NearstAirport="SNA">
 			<Number>1717</Number>
 			<Street>Disneyland Dr</Street>
 			<City>Anaheim</City>
@@ -45,10 +45,10 @@
 			<Zip>92802</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="4.6" NearstAirport="SNA">
+	<Hotel Rating="4.6">
 		<Name>Disneyland Hotel</Name>
 		<Phone>714-778-6600</Phone>
-		<Address>
+		<Address NearstAirport="SNA">
 			<Number>1150</Number>
 			<Street>Magic Way</Street>
 			<City>Anaheim</City>
@@ -56,10 +56,10 @@
 			<Zip>92802</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="4.6" NearstAirport="MCO">
+	<Hotel Rating="4.6">
 		<Name>Disney's Contemporary Resort</Name>
 		<Phone>407-8224-1000</Phone>
-		<Address>
+		<Address NearstAirport="MCO">
 			<Number>4600</Number>
 			<Street>World Dr</Street>
 			<City>Lake Buena Vista</City>
@@ -67,10 +67,10 @@
 			<Zip>32830</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="4.8" NearstAirport="MCO">
+	<Hotel Rating="4.8">
 		<Name>Disney's Wilderness Lodge</Name>
 		<Phone>407-934-7639</Phone>
-		<Address>
+		<Address NearstAirport="MCO">
 			<Number>901</Number>
 			<Street>Timberline Dr</Street>
 			<City>Lake Buena Vista</City>
@@ -78,10 +78,10 @@
 			<Zip>32830</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="4.6" NearstAirport="MCO">
+	<Hotel Rating="4.6">
 		<Name>Disney's Art of Animation Resort</Name>
 		<Phone>407-934-7639</Phone>
-		<Address>
+		<Address NearstAirport="MCO">
 			<Number>1850</Number>
 			<Street>Animation Way</Street>
 			<City>Lake Buena Vista</City>
@@ -89,10 +89,10 @@
 			<Zip>32830</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="4.7" NearstAirport="MCO">
+	<Hotel Rating="4.7">
 		<Name>Disney's Polynesian Village Resort</Name>
 		<Phone>407-934-7639</Phone>
-		<Address>
+		<Address NearstAirport="MCO">
 			<Number>1600</Number>
 			<Street>Seven Seas Dr</Street>
 			<City>Golden Oak</City>
@@ -100,10 +100,10 @@
 			<Zip>32836</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="4.7" NearstAirport="MCO">
+	<Hotel Rating="4.7">
 		<Name>Disney's Yacht Club Resort</Name>
 		<Phone>407-934-7639</Phone>
-		<Address>
+		<Address NearstAirport="MCO">
 			<Number>1700</Number>
 			<Street>Epcot Resorts Blvd</Street>
 			<City>Lake Buena Vista</City>
