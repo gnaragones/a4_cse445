@@ -1,8 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-            targetNamespace="http://example.com/hotels"
-            xmlns="http://example.com/hotels"
-            elementFormDefault="qualified">
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
 	<xsd:element name="Hotels">
 		<xsd:complexType>
